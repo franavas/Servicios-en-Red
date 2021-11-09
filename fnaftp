@@ -1,0 +1,13 @@
+
+Pasos practica clase
+
+instalar vsftpd entrar en /etc/vsftpd.conf y descomentar linea de write enable y la de la mascara ponerla en 00
+
+crear usuario con -g ftp
+
+instalar php7.2
+
+desinstalar archivos con apt purge remove 
+
+
+
